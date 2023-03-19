@@ -1,5 +1,5 @@
 # PG-Dreamer-
-A complete PG [FCPS part 1/ MD/MS] preparation app in Bangladesh. Downloaded 4,500+ times on Google Play with a 4.5+ rating after 170+ reviews.
+A complete PG [FCPS part 1/ MD/MS] preparation app in Bangladesh. Downloaded 5k+ times on Google Play with a 4.5+ rating after 170+ reviews.
 
 ![IMG_20211103_224930](https://user-images.githubusercontent.com/53171337/162273937-1a367204-ed1f-46b1-bb91-bcd05abd7bcb.jpg)
 
